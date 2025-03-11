@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassankyanzi
 - 👀 I’m interested in software development,Data science and data analytics
-- 🌱 I’m currently learning web development, app development,data science
+- 🌱 I currently know web development and data science
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me +256701761425
 
